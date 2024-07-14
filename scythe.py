@@ -121,7 +121,7 @@ def main():
                 unknown = f'{user} : {password}'
                 saveUnknown(unknown)
                 print(unknown + ' = Unknown?  Saved.')
-
+            time.sleep(random.uniform(2, 7.5))
         except KeyboardInterrupt:
             print('\n\nExiting..')
             print("Found and Unknown accounts saved to 'foundAccounts.txt' & 'Unknown.txt'.\n")
