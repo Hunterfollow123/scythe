@@ -1,4 +1,4 @@
-# scythe
+# scythe (Outdated; follow for updates)
 A tool to crack Israeli Facebook accounts using Israeli phone numbers.
 
 
